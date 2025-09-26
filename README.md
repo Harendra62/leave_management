@@ -85,7 +85,7 @@ A comprehensive Python-based leave management system built with FastAPI that han
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Harendra62/leave_management
    cd leave
    ```
 
